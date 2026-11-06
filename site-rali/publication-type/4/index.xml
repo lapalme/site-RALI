@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Laboratoire RALI</title>
+    <link>https://www.iro.umontreal.ca/~lapalme/site-rali/publication-type/4/</link>
+      <atom:link href="https://www.iro.umontreal.ca/~lapalme/site-rali/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-ca</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.iro.umontreal.ca/~lapalme/site-rali/media/icon_hu_ac8f1524f784c8a0.png</url>
+      <title>4</title>
+      <link>https://www.iro.umontreal.ca/~lapalme/site-rali/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Some SwiftUI fundamentals</title>
+      <link>https://www.iro.umontreal.ca/~lapalme/site-rali/publication/lapalme-23-swift-dundamentals/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.iro.umontreal.ca/~lapalme/site-rali/publication/lapalme-23-swift-dundamentals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dernières nouvelles | Laboratoire RALI</title>
+    <link>https://www.iro.umontreal.ca/~lapalme/site-rali/post/</link>
+      <atom:link href="https://www.iro.umontreal.ca/~lapalme/site-rali/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dernières nouvelles</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-ca</language>
+    <image>
+      <url>https://www.iro.umontreal.ca/~lapalme/site-rali/media/icon_hu_ac8f1524f784c8a0.png</url>
+      <title>Dernières nouvelles</title>
+      <link>https://www.iro.umontreal.ca/~lapalme/site-rali/post/</link>
+    </image>
+    
+  </channel>
+</rss>

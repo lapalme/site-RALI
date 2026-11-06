@@ -6,17 +6,56 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  menu:
+    main:
+      # - name: Tour
+      #   url: tour
+      #   weight: 10
+      # - name: News
+      #   url: post
+      #   weight: 20
+      - name: People
+        url: people
+        weight: 30
+      - name: Events
+        url: event
+        weight: 40
+      - name: Publications
+        url: publication
+        weight: 50
+      - name: Contact
+        url: contact
+        weight: 60
+
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+fr:
+ languageCode: fr-ca 
+ contentDir: content/fr
+ title: Laboratoire RALI
+ params:
+   description: Description du site
+ menu:
+    main:
+        # - name: Visite
+        #   url: tour
+        #   weight: 10
+        # - name: Nouvelles
+        #   url: post
+        #   weight: 20
+        - name: Les gens
+          url: people
+          weight: 30
+        - name: Événements
+          url: event
+          weight: 40
+        - name: Publications
+          url: publication
+          weight: 50
+        - name: Ressources
+          url: resource
+          weight : 55
+        - name: Contact
+          url: contact
+          weight: 60

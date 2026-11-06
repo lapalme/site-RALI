@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guy Lapalme | RALI</title>
+    <link>https://www.iro.umontreal.ca/~lapalme/site-rali/en/author/guy-lapalme/</link>
+      <atom:link href="https://www.iro.umontreal.ca/~lapalme/site-rali/en/author/guy-lapalme/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guy Lapalme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.iro.umontreal.ca/~lapalme/site-rali/en/author/guy-lapalme/avatar_hu_cb873c8a81c14509.jpg</url>
+      <title>Guy Lapalme</title>
+      <link>https://www.iro.umontreal.ca/~lapalme/site-rali/en/author/guy-lapalme/</link>
+    </image>
+    
+    <item>
+      <title>Guy Lapalme</title>
+      <link>https://www.iro.umontreal.ca/~lapalme/site-rali/en/author/guy-lapalme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iro.umontreal.ca/~lapalme/site-rali/en/author/guy-lapalme/</guid>
+      <description>&lt;p&gt;Since 2019, I have been a professor emeritus at the Université de Montréal. I taught there for 40 years in the Department of Computer Science and Operations Research, working primarily in natural language processing within the RALI laboratory. Until September 2026, I served as the academic lead for the &lt;a href=&#34;https://mona.iro.umontreal.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MONA&lt;/a&gt; project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

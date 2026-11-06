@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | RALI</title>
+    <link>https://www.iro.umontreal.ca/~lapalme/site-rali/en/authors/</link>
+      <atom:link href="https://www.iro.umontreal.ca/~lapalme/site-rali/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.iro.umontreal.ca/~lapalme/site-rali/media/icon_hu_ac8f1524f784c8a0.png</url>
+      <title>Authors</title>
+      <link>https://www.iro.umontreal.ca/~lapalme/site-rali/en/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

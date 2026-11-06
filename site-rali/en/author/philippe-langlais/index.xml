@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philippe Langlais | RALI</title>
+    <link>https://www.iro.umontreal.ca/~lapalme/site-rali/en/author/philippe-langlais/</link>
+      <atom:link href="https://www.iro.umontreal.ca/~lapalme/site-rali/en/author/philippe-langlais/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philippe Langlais</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.iro.umontreal.ca/~lapalme/site-rali/en/author/philippe-langlais/avatar_hu_dc8ebc2d57ec2f8c.jpg</url>
+      <title>Philippe Langlais</title>
+      <link>https://www.iro.umontreal.ca/~lapalme/site-rali/en/author/philippe-langlais/</link>
+    </image>
+    
+  </channel>
+</rss>

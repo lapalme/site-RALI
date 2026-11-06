@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Laboratoire RALI</title>
+    <link>https://www.iro.umontreal.ca/~lapalme/site-rali/publication-type/2/</link>
+      <atom:link href="https://www.iro.umontreal.ca/~lapalme/site-rali/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-ca</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.iro.umontreal.ca/~lapalme/site-rali/media/icon_hu_ac8f1524f784c8a0.png</url>
+      <title>2</title>
+      <link>https://www.iro.umontreal.ca/~lapalme/site-rali/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>The jsRealB Text Realizer: Organization and Use Cases</title>
+      <link>https://www.iro.umontreal.ca/~lapalme/site-rali/publication/js-real-b-2021-lapalme/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.iro.umontreal.ca/~lapalme/site-rali/publication/js-real-b-2021-lapalme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deux dictionnaires informatisés de Jean Dubois et Françoise Dubois-Charlier, leurs ultimes travaux</title>
+      <link>https://www.iro.umontreal.ca/~lapalme/site-rali/publication/lapalme-le-pesant-2020-lvf-dem/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.iro.umontreal.ca/~lapalme/site-rali/publication/lapalme-le-pesant-2020-lvf-dem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
